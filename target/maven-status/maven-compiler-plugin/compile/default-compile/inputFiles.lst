@@ -1,6 +1,10 @@
 /Users/alby./getmesocial-service/src/main/java/com/example/getmesocialservice/GetmesocialServiceApplication.java
+/Users/alby./getmesocial-service/src/main/java/com/example/getmesocialservice/service/AlbumService.java
 /Users/alby./getmesocial-service/src/main/java/com/example/getmesocialservice/ServletInitializer.java
+/Users/alby./getmesocial-service/src/main/java/com/example/getmesocialservice/model/Album.java
 /Users/alby./getmesocial-service/src/main/java/com/example/getmesocialservice/service/UserService.java
+/Users/alby./getmesocial-service/src/main/java/com/example/getmesocialservice/repository/AlbumRepository.java
 /Users/alby./getmesocial-service/src/main/java/com/example/getmesocialservice/repository/UserRepository.java
 /Users/alby./getmesocial-service/src/main/java/com/example/getmesocialservice/model/User.java
 /Users/alby./getmesocial-service/src/main/java/com/example/getmesocialservice/resource/UserResource.java
+/Users/alby./getmesocial-service/src/main/java/com/example/getmesocialservice/resource/AlbumResource.java
